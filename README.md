@@ -6,4 +6,4 @@ Run following command
 - python khata.py
 
 ### Requirements 
-python 3.7 or above
+- python 3.7 or above
