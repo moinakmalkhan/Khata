@@ -1,4 +1,4 @@
 # Khata
 ## How to install 
-pip install pyperclip \n
+pip install pyperclip <br>
 pip install fpdf
