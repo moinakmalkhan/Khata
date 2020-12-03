@@ -1,4 +1,4 @@
-# Khata
+# Khata by MAKS
 ### How to install 
 Run following command 
 - pip install pyperclip
